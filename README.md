@@ -19,4 +19,4 @@ The list is in this CSV file [suppliers.csv](suppliers.csv)
 | [avelmak.sk](https://avelmak.sk/) | €5.80 | - | SK |
 <!-- SUPPLIERS_TABLE:END -->
 
-Feel free to expand the list.
+Feel free to expand the list (via issues or pull requests).
