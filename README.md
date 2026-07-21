@@ -9,4 +9,4 @@ the supplier ships to, "eu" means all EU member states, "world" means worldwide 
 
 The list is in this CSV file [suppliers.csv](suppliers.csv)
 
-Feel free to expand the list.
+Feel free to expand the list (via issues or pull requests).
