@@ -1,32 +1,34 @@
-url,shipping,free_shipping,ships_to
-https://amptone.pl/,3.5,-,"eu + few others"
-https://avelmak.sk/,5.80,-,sk
-https://distrelec.de/,14.95,100,de
-https://dsmcz.com/,10,-,eu
-https://musikding.de/,5.90,-,"eu except bg,hr,ro"
-https://pollin.de/,8.99,-,eu
-https://segor.de/,?,-,world
-https://shop.schukat.com/,10~30,-,world
-https://shop.tvsat.com.pl/,5.45,-,world
-https://uraltone.com/,14.70,-,world
-https://voelkner.de/,5.95,-,de
-https://www.banzaimusic.com/,8.95,-,eu
-https://www.buerklin.com/,12.79,-,world
-https://www.conrad.com/,12~50,-,eu
-https://www.elecom.sk/,4.50,50,"at,cz,de,hu,pl,sk"
-https://www.gme.sk/,5,50,sk
-https://www.haje.nl/,3.95,-,world
-https://www.heilind.eu/,7.01,-,eu
-https://www.op-electronics.com,11,-,"eu + few others"
-https://www.reichelt.de/,14.95,-,eu
-https://www.retroamplis.com/,9.90,-,eu
-https://www.semic.sk/,12.51,-,"eu + few others"
-https://www.soselectronic.com/,10,200,world
-https://www.tinytronics.nl/,20.30,-,eu
-https://www.tme.eu/,7.26,-,eu
-https://www.tonefactory.nl/,11.50,-,"eu except cyprus"
-https://www.tubeampdoctor.com/,15,-,world
-https://www.tubetown.net/ttstore/en/,10.15,-,world
-https://www.uk-electronic.de/,16,-,eu
-https://www.vandijkenelektronica.nl/,21.78,150,world
-https://zelcomponents.co.uk/,14.95,-,world
+url,shipping,free_shipping,ships_to,last_updated,notes
+https://amptone.pl/,3.5,-,"eu + few others",,
+https://avelmak.sk/,5.80,-,sk,,
+https://distrelec.de/,14.95,"100 EUR",de,,
+https://dsmcz.com/,10,-,eu,,
+https://elty.pl/,12-25,-,eu,2026-08-19,
+https://kamami.pl/,8.17,"500 PLN",eu,2026-08-19,
+https://musikding.de/,5.90,-,"eu except bg,hr,ro",,
+https://pollin.de/,8.99,-,eu,,
+https://segor.de/,?,-,world,,
+https://shop.schukat.com/,10~30,-,world,,
+https://shop.tvsat.com.pl/,5.45,-,world,,
+https://uraltone.com/,14.70,-,world,,
+https://voelkner.de/,5.95,-,de,,
+https://www.banzaimusic.com/,8.95,-,eu,,
+https://www.buerklin.com/,12.79,-,world,,
+https://www.conrad.com/,12~50,-,eu,,
+https://www.elecom.sk/,4.50,"50 EUR","at,cz,de,hu,pl,sk",,
+https://www.gme.sk/,5,"50 EUR",sk,,
+https://www.haje.nl/,3.95,-,world,,
+https://www.heilind.eu/,7.01,-,eu,,
+https://www.op-electronics.com,11,-,"eu + few others",,
+https://www.reichelt.de/,14.95,-,eu,,
+https://www.retroamplis.com/,9.90,-,eu,,
+https://www.semic.sk/,12.51,-,"eu + few others",,
+https://www.soselectronic.com/,10,"200 EUR",world,,
+https://www.tinytronics.nl/,20.30,-,eu,,
+https://www.tme.eu/,7.26,-,eu,,
+https://www.tonefactory.nl/,11.50,-,"eu except cyprus",,
+https://www.tubeampdoctor.com/,15,-,world,,
+https://www.tubetown.net/ttstore/en/,10.15,-,world,,
+https://www.uk-electronic.de/,16,-,eu,,
+https://www.vandijkenelektronica.nl/,21.78,"150 EUR",world,,
+https://zelcomponents.co.uk/,14.95,-,world,,
